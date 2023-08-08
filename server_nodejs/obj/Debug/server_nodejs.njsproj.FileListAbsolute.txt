@@ -1,0 +1,3 @@
+C:\Users\Quan68\Desktop\server_nodejs\server_nodejs\obj\Debug\server_nodejs.njsproj.AssemblyReference.cache
+C:\Users\Quan68\Desktop\server_nodejs\server_nodejs\obj\Debug\server_nodejs.njsproj.CoreCompileInputs.cache
+C:\Users\Quan68\Desktop\server_nodejs\server_nodejs\bin\Microsoft.NodejsTools.WebRole.dll
